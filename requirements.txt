@@ -1,0 +1,7 @@
+# chart 
+yfinance
+
+# machine learning
+numpy
+matplotlib
+pandas
