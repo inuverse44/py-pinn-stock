@@ -1,7 +1,17 @@
 # chart 
 yfinance
 
-# machine learning
+# need for calcration
 numpy
-matplotlib
 pandas
+scikit-learn
+torch
+tensorflow
+torch
+
+# figure
+seaborn
+matplotlib
+
+# 
+requests
