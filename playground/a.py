@@ -13,4 +13,3 @@ print(x2)
 print(x2.shape)  # torch.Size([3])
 
 print(x1.squeeze())
-print(x1.unsqueeze())
